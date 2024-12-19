@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zarjin, a passionate frontend developer from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Zarjin, a passionate Web developer from Bangladesh</h2>
 
 ###
 
