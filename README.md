@@ -27,7 +27,7 @@
 ###
 
 ## About Me
-Hi there! I'm Zarjin, a dedicated frontend developer with a passion for creating beautiful and functional web experiences. I enjoy working with modern frameworks and libraries to bring ideas to life, with a strong focus on responsive design and user experience.
+Hi there! I'm Zarjin, a dedicated web developer with a passion for creating beautiful and functional web experiences. I enjoy working with modern frameworks and libraries to bring ideas to life, with a strong focus on responsive design and user experience.
 
 ## 🚀 Skills
 - **Languages:** [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)
